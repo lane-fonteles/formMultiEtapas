@@ -1,3 +1,15 @@
+# Formulário Multi Etapas
+
+## Finalidade da Aplicação:
+* Composto por três etapas onde:
+1. Etapa um tem validações simples em Html
+2. Etapa dois tem níveis de satisfação e você pode adicionar um comentário
+3. Etapa 3 é um resumo da sua avaliação e  futuramente irei complementar a mesma aplicação com back-end
+
+## Tecnologias usadas:
+* REACT JS
+* React icons
+
 <img src="/formMultietapas.png">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
